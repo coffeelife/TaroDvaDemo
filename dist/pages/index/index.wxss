@@ -1,0 +1,28 @@
+.index-page .userInfo {
+  background-color: #eee;
+  border-radius: 16rpx;
+  width: 690rpx;
+  margin: 15rpx;
+  padding: 15rpx;
+  overflow: hidden;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+.index-page .userInfo .userAvatar {
+  height: 120rpx;
+  width: 120rpx;
+}
+.index-page .userInfo .userDetail {
+  margin-left: 15rpx;
+}
+.index-page .userBtn {
+  margin: 0 15rpx;
+}
+
